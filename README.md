@@ -11,7 +11,7 @@
 
 
 
-**Welcome to my github page**. I run a youtube chanel focused on coding called [Frederick Dineen](https://www.youtube.com/@donwolfonline) and in this github you'll find every single piece of source code written in every coding video.
+
 
 -  **Mobile & Web App Dev** is my passion 🔥
 -  Currently focused on **React Native** 📱
@@ -19,7 +19,7 @@
 
 Feel free to check out everything I do  if you find any error or have a suggestion do live an issue 🚩
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=donwolfonline&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donwolfonline&hide=TeX&layout=compact)
+
 
 
 <!---
